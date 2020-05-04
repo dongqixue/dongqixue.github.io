@@ -2,7 +2,7 @@ theme: jekyll-theme-time-machine
 
 collections:
   authors:
-    output: true
+    output: false
 
 defaults:
   - scope:
